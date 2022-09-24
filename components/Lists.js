@@ -51,7 +51,6 @@ export default function Lists() {
                     <td>{d.date}</td>
                     <td>{d.type}</td>
                     <td>{d.amount}</td>
-                    <td>{d.description}</td>
                     <td className="text-center">
                       <button
                         type="button"

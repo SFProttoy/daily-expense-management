@@ -64,6 +64,7 @@ export default function Form() {
           name="date"
           onChange={handleForm}
           placeholder="01/30/2000"
+          required
         />
 
         <h5>Description</h5>
